@@ -9,7 +9,7 @@ A very simple Docker-compose to discover Symfony 6 with PHP 8.0.13 in 5 minutes
 Clone the project
 
 ```bash
-  git@github.com:yoanbernabeu/symfony6-php8-in-docker-compose.git
+  git@github.com:TayChak/Symfony6_PHP8_Docker.git
 ```
 
 Run the docker-compose
@@ -68,6 +68,3 @@ Out of the box, this docker-compose is designed for a Linux operating system, pr
 - Linux (Ubuntu 20.04 or other)
 - Docker
 - Docker-compose
-## Author
-
-- [@yoanbernabeu](https://github.com/yoanbernabeu)
